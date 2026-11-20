@@ -24,3 +24,8 @@
 | TS_18 | Compatibility | Verify application on Chrome, Firefox and Edge | Medium |
 | TS_19 | Responsive | Verify application on tablet and mobile viewport | Medium |
 | TS_20 | Session | Verify logout ends the session and Back button does not open protected pages | High |
+| TS_21 | Checkout | Verify checkout is not allowed with an empty cart | Medium |
+
+**Total scenarios:** 21
+
+Dynamic Catalog pages (Lazy Load, Spinner, Slider) are out of scope for this cycle.
