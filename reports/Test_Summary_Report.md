@@ -20,14 +20,14 @@ Login, Product Listing, Product Details, Cart, Checkout, Navigation Menu, UI and
 
 | Item | Value |
 |---|---|
-| Test scenarios | 20 |
+| Test scenarios | 21 |
 | Test cases planned | 60 |
 | Test cases executed | 60 (100%) |
 | Passed | 58 (96.7%) |
 | Failed | 2 |
 | Total bugs reported | 20 |
 | Open Blocker / Critical bugs | 5 |
-| Requirement coverage | 100% (16 of 16) |
+| Requirement coverage | 100% (17 of 17) |
 
 ## 4. Exit Criteria Check
 
