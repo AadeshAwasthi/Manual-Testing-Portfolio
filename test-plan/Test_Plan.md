@@ -36,6 +36,7 @@ This test plan describes the scope, approach, resources and schedule for testing
 - Penetration testing
 - Payment gateway testing (the demo site has no real payment)
 - Database testing (no database access on the demo site)
+- Dynamic Catalog pages (Lazy Load, Spinner, Slider) from the side menu, planned for a later cycle
 
 ## 4. Test Approach
 
